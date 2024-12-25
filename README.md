@@ -1,1 +1,9 @@
 # Air_Quality_Monitoring through BLYNK IOT
+1) NodeMCU ESP8266
+2) DHT11
+3) MQ135
+4) LCD Display (I2C) 16X2
+5) BMP280
+6) LED
+7) BUZZER
+8) BREADBOARD
